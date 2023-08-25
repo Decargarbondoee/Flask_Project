@@ -1,0 +1,61 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Dependency directories
+env_bak/
+lib/
+libs/
+library/
+bin/
+build/
+develop-eggs/
+dist/
+download/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.pot
+*.pyc
+*.swp
+*.bak
+*.DS_Store
+*.sqlitedb
+*.sqlite3
+*.sdb
+*.db
+*.coverage
+
+# Local configuration
+*.conf
+*.ini
+*.env
+*.env.local
+*.env.*.local
+
+# Ignore sensitive or private information like credentials
+config.py
+secrets.json
+secrets.yaml
+secrets.yml
+
